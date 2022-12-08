@@ -1,3 +1,14 @@
+#myProgress {
+  width: 100%;
+  background-color: #ddd;
+}
+
+#myBar {
+ 
+  height: 5px;
+  background-color:rgba(77, 0, 0, 0.4);
+}
+
 .profile-pic {
   position: relative;
   max-width:130px;
